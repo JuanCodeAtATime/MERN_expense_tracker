@@ -1,0 +1,21 @@
+{
+  "name": "mern_expense_tracker",
+  "version": "1.0.0",
+  "description": "MERN Expense Tracker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node backend/server.js",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanCodeAtATime/MERN_expense_tracker.git"
+  },
+  "author": "Juan Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanCodeAtATime/MERN_expense_tracker/issues"
+  },
+  "homepage": "https://github.com/JuanCodeAtATime/MERN_expense_tracker#readme"
+}
