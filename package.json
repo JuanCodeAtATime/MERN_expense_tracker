@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "MERN Expense Tracker",
   "main": "server.js",
+  "engines": {
+    "npm": "6.13.4",
+    "node": "10.20.1"
+  },
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
