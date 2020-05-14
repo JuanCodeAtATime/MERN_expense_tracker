@@ -3,7 +3,7 @@
 - ```Date: May 13, 2020```
 
 
- ![Expense Tracker, mern stack expense tracker](client/public/screenshot.PNG)
+ ![Expense Tracker, mern stack expense tracker](client/public/expensephoto.png)
 
 *****
 
